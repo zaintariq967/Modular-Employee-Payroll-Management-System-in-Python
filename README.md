@@ -83,7 +83,7 @@ python main.py
 ---
 
 ## Sample Output
-
+```text
 ===================================
           SALARY SLIP
 ===================================
@@ -96,7 +96,9 @@ Allowance     : 7500
 Gross Salary  : 62500
 Net Salary    : 59375
 ===================================
+'''
 
+---
 
 ## Learning Outcomes
 
