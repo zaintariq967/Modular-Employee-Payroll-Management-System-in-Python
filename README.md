@@ -1,4 +1,4 @@
-# Employee Payroll Management System
+# Modular Employee Payroll Management System Using Python
 
 A console-based **Employee Payroll Management System** developed in Python to demonstrate **modular programming**, reusable functions, and structured application design. The application automates payroll processing by collecting employee information, calculating bonuses, allowances, gross salary, and net salary, and generating a formatted salary slip. The project emphasizes clean code organization through separate modules, making it easy to understand, maintain, and extend.
 
